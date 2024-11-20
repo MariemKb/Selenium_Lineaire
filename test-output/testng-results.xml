@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-23T23:09:17 CEST" name="Suite" finished-at="2024-10-23T23:09:24 CEST" duration-ms="6742">
+    <groups>
+    </groups>
+    <test started-at="2024-10-23T23:09:17 CEST" name="Test" finished-at="2024-10-23T23:09:24 CEST" duration-ms="6742">
+      <class name="testCases.Filedemo2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Filedemo2@6e6f2380]" started-at="2024-10-23T23:09:17 CEST" name="setup" finished-at="2024-10-23T23:09:23 CEST" duration-ms="5988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="fileUploadTest()[pri:0, instance:testCases.Filedemo2@6e6f2380]" started-at="2024-10-23T23:09:23 CEST" name="fileUploadTest" finished-at="2024-10-23T23:09:24 CEST" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileUploadTest -->
+      </class> <!-- testCases.Filedemo2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
